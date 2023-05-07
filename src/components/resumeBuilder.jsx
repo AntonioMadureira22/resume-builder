@@ -110,6 +110,7 @@ const ResumeBuilder = () => {
       </form>
 
       <button onClick={handleSave}>Save PDF</button>
+      <footer>Made By Antonio Madureira</footer>
     </div>
   );
 };

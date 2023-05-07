@@ -96,6 +96,13 @@ body {
   button:hover{
     transform: scale(1.1);
   }
+  footer{
+    background-color: #00BFFF;
+    width: 100vw;
+    height: 50px;
+    color: white;
+    font-size: 25px;
+  }
   
   /* Responsive Styles */
   @media (max-width: 768px) {
